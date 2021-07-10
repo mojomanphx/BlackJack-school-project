@@ -20,8 +20,9 @@ I then broke the whole program into four distinct parts.
     * Finally debugged any issues
     
   ### b. Game Preparation
-    _This portion of the project involved getting the game board set-up for player interaction._  
-    #### **Problems identified**
+    _This portion of the project involved getting the game board set-up for player interaction._ 
+    
+    **Problems identified**
     **_Loading deck of cards and assigning value, suite and number to each card._**
     
       I used three arrays; two relational arrays to represent the four suites of cards, 
@@ -32,8 +33,8 @@ I then broke the whole program into four distinct parts.
           - do While loop to continue to choose a random element as long as control is not met.**  
           - nested within do while created for loop to traverse array of used elements.** 
           - nested within for loop is an If else statement to analyze random and used elements 
-            ** if found within the used element it will choose a new element and repeat process.**  
-            ** if not found in used element array the loop control is changed and returns unique element to game.**
+            **if found within the used element it will choose a new element and repeat process.**  
+            **if not found in used element array the loop control is changed and returns unique element to game.**
       
       ### **This will continue to run choosing random numbers until a unique number is achieved.**
       
