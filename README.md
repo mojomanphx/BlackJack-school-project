@@ -46,9 +46,12 @@ Before I could begin this project, I first had to have clear understanding the f
       
   ### C. Game Function
   
-  **_This portion of the project was mainly bringing the previous two sections together to function upon user interaction with the game board._**
+  _This portion of the project was mainly bringing the previous two sections together to function upon user interaction with the game board._
   
-  _This was accomplished by creating a function that called the unique element function and assigned appropriate suite._
-  _Program then adjusts game board_
+  This was accomplished by creating a function that called the unique element function and assigned appropriate suite.
+    Program then adjusts game board to reflect the unique card choosen for the player.  
+      When the player is finished the game then progresses the dealers hand based on the rules established 
+      for casino dealers in Las Vegas.  
+        
     
   ### d. Scoring
