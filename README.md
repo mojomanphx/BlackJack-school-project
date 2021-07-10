@@ -54,4 +54,11 @@ Before I could begin this project, I first had to have clear understanding the f
       for casino dealers in Las Vegas.  
         
     
-  ### d. Scoring
+  ### D. Scoring
+  
+  _This portion of the project involved analyzing game board after each interaction and make appropriate decisions about game continuation and conclusion._
+  
+  There were several functions that were needed analyze the following
+   *Check player score to ensure they did not exceed 21.  
+   *Analyze game board upon completion to decide winner.  
+   *Track wins by both player and dealer.  
