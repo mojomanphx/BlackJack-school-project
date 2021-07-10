@@ -69,13 +69,13 @@ Before I could begin this project, I first had to have clear understanding the f
  * _Each section/function was able to be psuedocoded, written, tested and debugged before being added to the final product._ 
  * _This decreased my overall debugging time._  
 2. _It features a firm understanding of decision making processes._ 
- * _Showcases several do...while, if...else, and for loops both seperately and nested to make many decisions throughtout the game process.
+ * _Showcases several do...while, if...else, and for loops both seperately and nested to make many decisions throughtout the game process._
 3. _It has a robust container system that utilizes many different nested container types to ensure a clean look and consistent play while ensuring full_
 _user interaction._    
 
 **_I only had a week to work on three programs so there are several things I would have improved._**
 1. _I feel like the container could be more polished offering animations and graphics for suites and cards._
-2. _the Ace of any suite is solely worth 11 instead of either the normal 11 or 1._
+2. _The Ace of any suite is solely worth 11 instead of either the normal 11 or 1._
  
 
 
