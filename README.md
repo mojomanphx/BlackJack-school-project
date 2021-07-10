@@ -75,7 +75,7 @@ _user interaction._
 
 **_I only had a week to work on three programs so there are several things I would have improved._**
 1. _I feel like the container could be more polished offering animations and graphics for suites and cards._
-2. _the Ace of any suite is solely worth 11 instead of either the normal 11 and 1._
+2. _the Ace of any suite is solely worth 11 instead of either the normal 11 or 1._
  
 
 
