@@ -49,6 +49,6 @@ Before I could begin this project, I first had to have clear understanding the f
   **_This portion of the project was mainly bringing the previous two sections together to function upon user interaction with the game board._**
   
   _This was accomplished by creating a function that called the unique element function and assigned appropriate suite._
-    _Program then adjusts game board
+  _Program then adjusts game board_
     
   ### d. Scoring
