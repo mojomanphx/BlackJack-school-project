@@ -34,12 +34,12 @@ Before I could begin this project, I first had to have clear understanding the f
       
    **_Ensuring only unique cards are offered to player and dealer._** 
       
-   *_Created function to set unique element within my program._  
+   *_Created function to set unique element within my program._* 
    - do While loop to continue to choose a random element as long as control is not met.**  
    - nested within do while created for loop to traverse array of used elements.** 
    - nested within for loop is an If else statement to analyze random and used elements 
-    -**if found within the used element array it will choose a new element and repeat process.**  
-    -**if not found in used element array the loop control is changed and returns unique element to game.**
+    *_if found within the used element array it will choose a new element and repeat process._ 
+    *_if not found in used element array the loop control is changed and returns unique element to game._
       
    #### **This will continue to run choosing random numbers until a unique number is achieved.**
       
