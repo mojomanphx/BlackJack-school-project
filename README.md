@@ -26,10 +26,11 @@ Before I could begin this project, I first had to have clear understanding the f
    _This portion of the project involved getting the game board set-up for player interaction._ 
     
    **Problems identified**
+     
    **_Loading deck of cards and assigning value, suite and number to each card._**
-    - I used three arrays; two of those were relational arrays to represent the four suites of cards, 
-    and the final was for any card that was used within the game.  
-    - Created a function to look at string value for choosen card and return value for that card.
+     - I used three arrays; two of those were relational arrays to represent the four suites of cards, 
+     and the final was for any card that was used within the game.  
+     - Created a function to look at string value for choosen card and return value for that card.
       
    **_Ensuring only unique cards are offered to player and dealer._** 
       
