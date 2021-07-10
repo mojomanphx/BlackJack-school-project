@@ -8,8 +8,10 @@ This was a school project from my Java II class.
 Before I could begin this project, I first had to have clear understanding the following: 
 1. What are the overall rules for playing and winning at Blackjack.  
 2. What were the rules around how dealers played Blackjack. 
+3. I then broke the project down into four distinct parts, 
 
-## **I then broke the whole program into four distinct parts.** 
+## **Four Parts** 
+
   ### a. Container Preparation
     * First I made a mock up of the user screen and added any labels, buttons, graphics etc.  
     * then I created a list of needed containers and variables 
