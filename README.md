@@ -1,7 +1,7 @@
 # **_BlackJack Program_**
 
 ## **_Overview_**
-This was a school project from my Java II class.  
+This was a school project from my Java II class.  The goal was to complete a BlackJack program with some enhancements.  I could not locate the initial instructions and what were the enhancements.  There was a brief explination of the game of BlackJack.  I recieved all the available points for this project.    
 
 ## **_How I accomplished this program_**
 
